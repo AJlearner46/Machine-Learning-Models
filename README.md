@@ -1,2 +1,2 @@
-# simple macine learning model
+# macine learning model
  
