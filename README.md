@@ -9,5 +9,6 @@
 #### 6. Stock Price Prediction 
 #### 7. Titanic Survival Prediction
 #### 8. Country Happiness Score Prediction using ANN in R
+#### 9. Netflix movie EDA & Recommendations
 
  
